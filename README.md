@@ -1,6 +1,6 @@
 *👋 Hi, I’m Solomon Iyoubhebhe Johnbull (@iyousojo)*
 
-#💻 Full-Stack & Cross-Platform Developer | Computer Science Undergraduate#
+💻 Full-Stack & Cross-Platform Developer | Computer Science Undergraduate
 
 🚀 I build responsive web applications and cross-platform mobile experiences. I’m passionate about technical education and making complex tech accessible to everyone.
 
@@ -40,8 +40,6 @@ FinTech & EdTech: Building secure, user-centric solutions for real-world problem
 
 📂 Featured Projects:
 Libroflow: A comprehensive Library Management System with administrative inventory controls.
-
-Smart Campus Navigator (NEV): A PWA designed to help students navigate campus infrastructure efficiently.
 
 Student Attendance App: A mobile solution built with Expo for streamlined academic tracking.
 
