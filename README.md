@@ -52,4 +52,4 @@ Student Attendance App: A mobile solution built with Expo for streamlined academ
 
 Pronouns: He/Him
 
-⚡ Fun Fact:I view every "bug" as a puzzle waiting to be solved. I also believe that a good developer should have a great sense of humor—because sometimes you have to laugh at the code before you can fix it!
+⚡ Fun Fact:I view every "bug" as a puzzle waiting to be solved. I also believe that a good developer should have a great sense of humor because sometimes you have to laugh at the code before you can fix it!
