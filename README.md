@@ -52,4 +52,4 @@ Student Attendance App: A mobile solution built with Expo for streamlined academ
 
 Pronouns: He/Him
 
-⚡ Fun Fact: I built my first courier service web site as a personal project, and now I help train others to do the same. I also love adding a bit of humor to tech—because if the code is going to break, we might as well laugh while we fix it!
+⚡ Fun Fact:I view every "bug" as a puzzle waiting to be solved. I also believe that a good developer should have a great sense of humor—because sometimes you have to laugh at the code before you can fix it!
