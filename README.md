@@ -1,6 +1,6 @@
 *👋 Hi, I’m Solomon Iyoubhebhe Johnbull (@iyousojo)*
 
-💻 Full-Stack & Cross-Platform Developer | Computer Science Undergraduate
+#💻 Full-Stack & Cross-Platform Developer | Computer Science Undergraduate#
 
 🚀 I build responsive web applications and cross-platform mobile experiences. I’m passionate about technical education and making complex tech accessible to everyone.
 
