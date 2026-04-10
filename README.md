@@ -1,35 +1,55 @@
-markdown
 👋 Hi, I’m Solomon Iyoubhebhe Johnbull (@iyousojo)
-
-💻 I'm a passionate Full-Stack Web Developer and a current Computer Science undergraduate.  
-🚀 I enjoy building responsive, user-friendly websites and helping others learn tech from the ground up.
+💻 Full-Stack & Cross-Platform Developer | Computer Science Undergraduate
+🚀 I build responsive web applications and cross-platform mobile experiences. I’m passionate about technical education and making complex tech accessible to everyone.
 
 👀 I’m Interested In:
-- Front-end & Back-end Development  
-- Tech for Education  
-- Web Performance Optimization  
-- Open Source Collaboration
+Full-Stack Development: Architecting seamless connections between React/Next.js frontends and Node.js/PHP backends.
+
+Mobile Ecosystems: Building native-feel apps using React Native and Expo.
+
+Tech for Education: Developing tools like campus navigators and notification systems to improve student life.
+
+Performance & Scaling: Optimizing database queries and web performance.
 
 🌱 I’m Currently Learning:
-- Advanced JavaScript & React  
-- API Integrations  
-- PostgreSQL & Cloud Deployment
+Advanced React Patterns: Deep dives into performance optimization and state management.
+
+Cloud Architecture: Deploying scalable applications and managing PostgreSQL/Redis in the cloud.
+
+Mobile Deployment: Mastering EAS build processes and native configurations.
+
+🛠️ Technical Stack:
+Languages: JavaScript (ES6+), Python, Java, PHP.
+
+Frontend: React, React Native, Tailwind CSS, NativeWind.
+
+Backend: Node.js, Express, PHP (PHPMailer/Laravel logic).
+
+Databases: PostgreSQL, MySQL, MongoDB, Upstash Redis.
+
+Tools: Git, Vite, Expo, VS Code, PowerShell.
 
 💞 I’m Looking to Collaborate On:
-- Web development projects (especially with PHP, MySQL, React)  
-- Beginner-friendly open-source projects  
-- Tech communities and educational content
+Open Source: Beginner-friendly repositories and educational content.
+
+Cross-Platform Apps: Projects involving React Native and API integrations.
+
+FinTech & EdTech: Building secure, user-centric solutions for real-world problems.
+
+📂 Featured Projects:
+Libroflow: A comprehensive Library Management System with administrative inventory controls.
+
+Smart Campus Navigator (NEV): A PWA designed to help students navigate campus infrastructure efficiently.
+
+Student Attendance App: A mobile solution built with Expo for streamlined academic tracking.
 
 📫 How to Reach Me:
-- 📧 Email: solomonjohnbull676@gmail.com  
-- 🔗 LinkedIn: [Solomon Iyoubhebhe](https://www.linkedin.com/in/solomon-iyoubhebhe-8347682b1/)  
-- 🐦 Twitter: [@Argonixtech](https://x.com/Argonixtech)
+📧 Email: solomonjohnbull676@gmail.com
 
-😄 Pronouns:
-He/Him
+🔗 LinkedIn: Solomon Iyoubhebhe
 
-⚡ Fun Fact:
-I built my first courier service web app as a personal project, and now I help train others to do the same. I also love adding a bit of humor to tech—because learning should be fun!
+🐦 Twitter: @Argonixtech
 
----
+Pronouns: He/Him
 
+⚡ Fun Fact: I built my first courier service web site as a personal project, and now I help train others to do the same. I also love adding a bit of humor to tech—because if the code is going to break, we might as well laugh while we fix it!
